@@ -130,7 +130,7 @@ base_config: |
       isMultiDCEnabled = false
     }
     neo4j {
-      routePath = "bolt://neo4j.lern.svc.cluster.local:7687"
+      routePath = "bolt://neo4j.inquiry.svc.cluster.local:7687"
       graph = "domain"
     }
     es {
